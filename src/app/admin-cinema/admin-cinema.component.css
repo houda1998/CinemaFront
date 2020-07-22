@@ -1,0 +1,12 @@
+.clickable{
+  cursor: pointer ;
+}
+
+.cinemasName{
+  border: 1px solid #ccc;
+  margin: 5px;
+  color:black;
+}
+.cinemasName:active{
+  color:white;
+}
